@@ -1,0 +1,4 @@
+/home/rbnuc/Desktop/UIUK_QUAD/src/CMakeFiles/edit_cache.dir
+/home/rbnuc/Desktop/UIUK_QUAD/src/CMakeFiles/rebuild_cache.dir
+/home/rbnuc/Desktop/UIUK_QUAD/src/CMakeFiles/Hubodog5.dir
+/home/rbnuc/Desktop/UIUK_QUAD/src/CMakeFiles/Hubodog5_automoc.dir

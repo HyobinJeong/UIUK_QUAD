@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+cf71666a010c65d9eeadf8f66c888049 CMakeFiles/Hubodog5_automoc
+e000414dc3f1e82cdaeb3ff6cfe4b8f5 ui_ModelDialog.h
+b3b6903b685a1a7bde32dfeb0bbf7715 ui_mainwindow.h
